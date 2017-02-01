@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="View entire picture"
+        android:id="@+id/showpic" />
+    <item android:title="Go to official web page"
+        android:id="@+id/showbrowser" />
+    <item android:title="Show Dealer Info"
+        android:id="@+id/showlist" />
+</menu>
